@@ -1,0 +1,41 @@
+body{
+	background:url("../img/PON.jpeg") ;
+	font-family: Lilita One, Montserrat, Arial;
+}
+.y {
+	opacity:0.7 ;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 100px;
+	margin-bottom: 40px;
+}
+a{
+	display: flex;
+	align-items: center;
+	justify-content: center;	
+}
+.x{
+	font-size: 50px;
+	color: #031420;
+}
+.pts{
+	font-size: 40px;
+}
+.rts{
+	font-size: 50px;
+	text-transform: uppercase;
+}
+a{
+	text-decoration: none;
+	color: skyblue;
+}
+a:visited{
+	color:#a861e7;
+}
+a:hover{
+	color:#b0b3ee;
+}
+.gyl{
+	margin-bottom: 80px ;
+}
